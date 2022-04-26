@@ -14,7 +14,7 @@
 Natural de Campos Novos - SC, cidade essa que se encontra à 370 km de distância da capital Florianópolis.
             Iniciou o seu contato com tecnologia a partir do uso de um computador que executava o sistema operacional <a href="https://pt.wikipedia.org/wiki/Windows_95">Windows 95.</a>
             Desde então nunca mais se cansou de aprender sobre computadores e seus programas.
-## Detailed information
+## Informações Detalhadas
 
 * **Nome**: Gabriel Trucollo
 * **Idade**: 23
