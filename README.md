@@ -17,7 +17,7 @@ Natural de Campos Novos - SC, cidade essa que se encontra à 370 km de distânci
 ## Informações Detalhadas
 
 * **Nome**: Gabriel Trucollo
-* **Idade**: 24
+* **Idade**: 26
 * **Morando em**: João Pessoa/PB
 * **Stack**: .NET (Core/Framework) - PHP (Codeigniter/Laravel) - SQL (Postgre/Mysql) 
 
